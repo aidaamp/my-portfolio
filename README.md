@@ -1,1 +1,3 @@
-# my-portfolio
+# Aida Martinez Portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS.
